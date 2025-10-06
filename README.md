@@ -11,3 +11,5 @@ Build a Small Language Model (SLM) From Scratch
 (5) Setup the SLM for pre-training
 (6) Pre-training the SLM
 (7) Inference
+
+https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv
